@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo1/casclient_demo1.iml" filepath="$PROJECT_DIR$/casclient_demo1/casclient_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo2/casclient_demo2.iml" filepath="$PROJECT_DIR$/casclient_demo2/casclient_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo3/casclient_demo3.iml" filepath="$PROJECT_DIR$/casclient_demo3/casclient_demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_parent.iml" filepath="$PROJECT_DIR$/dubbo_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_service/dubbo_service.iml" filepath="$PROJECT_DIR$/dubbo_service/dubbo_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_web/dubbo_web.iml" filepath="$PROJECT_DIR$/dubbo_web/dubbo_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastdef_demo/fastdef_demo.iml" filepath="$PROJECT_DIR$/fastdef_demo/fastdef_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freemarkerdemo/freemarkerdemo.iml" filepath="$PROJECT_DIR$/freemarkerdemo/freemarkerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jms_demo/jms_demo.iml" filepath="$PROJECT_DIR$/jms_demo/jms_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springRedis_demo/springRedis_demo.iml" filepath="$PROJECT_DIR$/springRedis_demo/springRedis_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springSolr_demo/springSolr_demo.iml" filepath="$PROJECT_DIR$/springSolr_demo/springSolr_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo/springboot_demo.iml" filepath="$PROJECT_DIR$/springboot_demo/springboot_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_demo/test_demo.iml" filepath="$PROJECT_DIR$/test_demo/test_demo.iml" />
+    </modules>
+  </component>
+</project>
